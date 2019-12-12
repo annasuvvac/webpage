@@ -8,13 +8,13 @@ Updated site  have the following content:
 My name
 
 
-Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+Links to my GitHub profile & LinkedIn page as well as my email address and phone number
 
 
-A link to a PDF of your resume
+A link to a PDF of my resume
 
 
-A list of projects. For each project, make sure you have the following:
+A list of projects. For each project :
 
 
 Project title
@@ -33,6 +33,7 @@ Screenshot of the deployed application..
  https://ana199816.github.io/homework-08/ - WebSite
 
  https://github.com/Ana199816/homework-08 - GitHub
+
 
 
  Screenshots : 
